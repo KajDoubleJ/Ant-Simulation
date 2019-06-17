@@ -8,7 +8,7 @@ public class Food {
 	
 	public int postionX;
 	public int postionY;
-	public int nutrition = 100;	//For now there is 100, it could be changed.
+	public int nutrition = 100;
 	public static int numberOfFood = 0;
 	/**
 	 * This is the constructor of the food. It counts the amount of the food.

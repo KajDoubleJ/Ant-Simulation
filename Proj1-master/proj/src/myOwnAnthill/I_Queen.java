@@ -7,12 +7,12 @@ package myOwnAnthill;
 public interface I_Queen {
 	/**
 	 * This method implements how the queen eats.
-	 * @param map stores position?.
+	 * @param Represents the change in the map object..
 	 */
 	void eat(Map map);
 	/**
 	 * This method implements producing the ants by the queen.
-	 * @param map
+	 * @param Represents the change in the map object.
 	 * @return 'true' - ants produced,'false' - bad conditions for producing.
 	 */
 	boolean produce(Map map);
