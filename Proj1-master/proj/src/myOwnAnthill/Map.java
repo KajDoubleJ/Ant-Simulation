@@ -117,8 +117,6 @@ public class Map implements I_Settling {
 		putWorker(8, 17);
 		putWorker(9, 17);
 		
-		putWarrior(16, 3);
-		
 		//Sponges settlement
 		putSponge(0, 0);
 		putSponge(19, 0);
