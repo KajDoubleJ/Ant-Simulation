@@ -18,6 +18,9 @@ public class Sponge extends Organism {
 		numberOfSponges++;
 	}
 	
+	/**
+	 * 
+	 */
 	@Override
 	public void eatUp(int x, int y, Map map) {
 		hunger = maxHunger;
