@@ -1,5 +1,5 @@
-Number of Rocks: 75
-Number of Food: 15
+Number of Rocks: 67
+Number of Food: 30
 Number of Workers: 18
 Number of Warriors: 5
 Number of Sponges: 3

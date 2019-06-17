@@ -16,7 +16,7 @@ public class Simulation {
 		
 		map.show();
 		
-		for(int i = 0; i < numberOfIterations; i++) {
+		for(int i = 0; i < numberOfIterations && map.queen[0].died == false; i++) {
 			for(int j = 0; j < Worker.numberOfWorkers; j++) {
 				map.ant[j].turn(map);
 			}
