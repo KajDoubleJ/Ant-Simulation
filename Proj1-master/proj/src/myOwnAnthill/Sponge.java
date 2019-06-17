@@ -17,4 +17,34 @@ public class Sponge extends Organism {
 		this.type = 'S';
 		numberOfSponges++;
 	}
+	
+	@Override
+	public void eatUp(int x, int y, Map map) {
+		hunger = maxHunger;
+		map.field[y - 1][x].visualization = '-';
+	}
+	/**
+	 * 
+	 */
+	@Override
+	public void eatRight(int x, int y, Map map) {
+		hunger = maxHunger;
+		map.field[y][x + 1].visualization = '-';
+	}
+	/**
+	 * 
+	 */
+	@Override
+	public void eatDown(int x, int y, Map map) {
+		hunger = maxHunger;
+		map.field[y + 1][x].visualization = '-';
+	}
+	/**
+	 * 
+	 */
+	@Override
+	public void eatLeft(int x, int y, Map map) {
+		hunger = maxHunger;
+		map.field[y][x - 1].visualization = '-';
+	}
 }
