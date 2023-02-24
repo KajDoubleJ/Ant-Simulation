@@ -36,5 +36,3 @@ The amount of time was limited, so in the and we had critical remarks to our pro
 First of all we should have improved the hermetization.
 Also we were planing to make graphics for all objects in the map.
 The number of our ideas to make new functions seemed to be infinity.
-
-What should we make better? We are open to comments. Please send Your remarks to the email: k.olbryt@gmail.com
