@@ -32,7 +32,7 @@ At the and user can check the statistics in the "statistics.txt" file.
 
 Symbols in the visualization: Queen-Q, Warrior-W, Worker-A, Sponge-S, Food-F, Rock-R
 
-The amount of time was limited, so in the and we had critical remarks to our project. There are couple things that we wanted to change.
+The amount of time was limited, so in the end we had critical remarks to our project. There are couple things that we wanted to change.
 First of all we should have improved the hermetization.
 Also we were planing to make graphics for all objects in the map.
 The number of our ideas to make new functions seemed to be infinity.
