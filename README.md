@@ -1,4 +1,4 @@
-# AntSimulation
+# Ant-Simulation
 
 This is my first team University project. We were on the first year and the name of the course was Objected Programming. 
 Our task was to create symulation program, wich couldn't be interactive by user.
