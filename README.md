@@ -21,7 +21,7 @@ Workers are collecting the food to the depot, warriors attack sponges and the qu
 The queen can produce workers and warriors. Every ant has to eat, if ant won't eat, it wil die.
 The queen eats the food from depot. The queen has special place, where she produces the ants. She's moving only when she need food.
 
-Food is settled in random fields. It's very important for warriors to protect the food form sponges. When there won't be any food,
+Food is settled in random fields. It's very important for warriors to protect the food from sponges. When there won't be any food,
 population will decrease.
 
 The anthill is made by rocks. Ants can't move to the field when there is a rock.
